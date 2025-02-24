@@ -1,6 +1,8 @@
 # **Anthropic Claude Sonnet 3.7 Extended Thinking Quickstart Colab Notebook**
 
-This is a quick notebook to help you start experimenting with and learning about how to build with Sonnet 3.7
+This is a quick Colab notebook to help you start experimenting with and learning about how to build with Sonnet 3.7
+
+You can jump into it right here: https://github.com/smartaces/Anthropic_Claude_Sonnet_3_7_extended_thinking_colab_quickstart_notebook/blob/main/Anthropic_Claude_Sonnet_Extended_Thinking.ipynb
 
 Important:
 
