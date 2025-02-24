@@ -4,6 +4,9 @@ This is a quick Colab notebook to help you start experimenting with and learning
 
 You can jump into it right here: https://github.com/smartaces/Anthropic_Claude_Sonnet_3_7_extended_thinking_colab_quickstart_notebook/blob/main/Anthropic_Claude_Sonnet_Extended_Thinking.ipynb
 
+![image](https://github.com/user-attachments/assets/c45e3032-b5e1-42bb-959f-1282070dfd0a)
+
+
 Important:
 
 *   I did not write this code, I merely consolidated it into a Colab notebook to help make it a little more accessible for some to get up and running testing Sonnet 3.7
@@ -23,6 +26,4 @@ Sonnet 3.7 Looks Great For Coding
 
 ![image](https://github.com/user-attachments/assets/016549ea-b1c9-47e5-b5b6-77bc4f737363)
 
-And here is a preview of what to expect in the Colab notebook
 
-![image](https://github.com/user-attachments/assets/c45e3032-b5e1-42bb-959f-1282070dfd0a)
