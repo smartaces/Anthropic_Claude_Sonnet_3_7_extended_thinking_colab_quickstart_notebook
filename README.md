@@ -2,7 +2,7 @@
 
 This is a quick Colab notebook to help you start experimenting with and learning about how to build with Sonnet 3.7
 
-You can jump into it right here: https://github.com/smartaces/Anthropic_Claude_Sonnet_3_7_extended_thinking_colab_quickstart_notebook/blob/main/Anthropic_Claude_Sonnet_Extended_Thinking.ipynb
+You can jump into it right here: https://colab.research.google.com/github/smartaces/Anthropic_Claude_Sonnet_3_7_extended_thinking_colab_quickstart_notebook/blob/main/Anthropic_Claude_Sonnet_Extended_Thinking.ipynb
 
 ![image](https://github.com/user-attachments/assets/c45e3032-b5e1-42bb-959f-1282070dfd0a)
 
